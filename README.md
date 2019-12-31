@@ -51,3 +51,10 @@ java maskapai
 ## Contact
 
 Greggy Gianini Firmansyah - [@greggygf](https://instagram.com/GreggyGF) - greggygf@gmail.com
+
+## Acknowledgements
+
+* [Garuda Indonesia](https://www.garuda-indonesia.com/other-countries/en/index.page?)
+* [Citilink](https://www.citilink.co.id/)
+* [Sriwijaya Air](https://www.sriwijayaair.co.id/)
+* [Lion Air](http://www.lionair.co.id/id)
