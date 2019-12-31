@@ -154,6 +154,7 @@ class maskapai {
         String nomor_identitas = " ";
         String pilihan_maskapai = " ";
         String pilihan_tujuan = " ";
+        String nomor_kartu;
         char pilihan = ' ';
         int harga = ' ';
 
