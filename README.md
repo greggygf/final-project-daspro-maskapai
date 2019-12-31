@@ -1,5 +1,4 @@
 # Maskapai
-==========
 Simple java application for purchasing airplane tickets
 
 ## Installation
@@ -14,7 +13,7 @@ javac maskapai.java
 ```
 3. Run this project
 ```
-java maskapai.java
+java maskapai
 ```
 
 ## Demo
